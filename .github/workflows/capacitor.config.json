@@ -1,0 +1,6 @@
+{
+  "appId": "com.alightcut.app",
+  "appName": "AlightCut",
+  "webDir": "www",
+  "android": { "allowMixedContent": true }
+}
